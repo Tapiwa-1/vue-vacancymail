@@ -1,7 +1,7 @@
 <template>
     <div class="my-5 w-full overflow-hidden bg-white border border-gray-200 rounded-lg shadow-md ">
         <div class="flex items-center mx-6 my-2">
-            <img src="https://via.placeholder.com/150" width="50" alt="">
+            <img class="rounded-full mr-2 shadow-lg shadow-blue-100" src="https://via.placeholder.com/150" width="50" alt="">
             <h1>Web Developer</h1>
         </div>
         <div class="bg-blue-900 text-white py-1 text-xs" style=" text-align: justify;">

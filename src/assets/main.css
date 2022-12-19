@@ -4,7 +4,7 @@
 .box {
 	@apply
         mt-3
-		min-w-full
+		w-full
 		h-full
 		min-h-full
 		
